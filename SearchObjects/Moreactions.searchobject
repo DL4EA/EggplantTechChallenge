@@ -1,0 +1,35 @@
+{
+	"lastmodifieddate": 1643827925.2869999,
+	"ocrcapturestring": "More actions",
+	"originalcapturelocation": [
+		913,
+		577,
+		72,
+		13
+	],
+	"createddate": 1643827705.6110001,
+	"testlocationdata": [
+		{
+				"capturedocrtext": "More actions",
+				"deleted": true,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[50,7]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"type": 1,
+				"capturerect": [
+					913,
+					577,
+					72,
+					13
+				],
+				"name": "Moreactions.png"
+			}
+	],
+	"name": "Moreactions"
+}

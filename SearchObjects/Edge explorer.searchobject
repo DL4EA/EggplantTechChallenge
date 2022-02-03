@@ -1,0 +1,47 @@
+{
+	"lastmodifieddate": 1643825946.0240002,
+	"lastfoundlocation": [
+		7,
+		98,
+		64,
+		64
+	],
+	"originalcapturelocation": [
+		7,
+		98,
+		64,
+		64
+	],
+	"createddate": 1643825501.7880001,
+	"lastfounddate": 1643825503.5469999,
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"deleted": true,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[32,32]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Edge explorer.png",
+				"connectionname": "EggplantAntonio",
+				"type": 1,
+				"capturerect": [
+					7,
+					98,
+					64,
+					64
+				],
+				"connectiontype": "RDP",
+				"connectionserverid": "20.113.93.89"
+			}
+	],
+	"name": "Edge explorer"
+}

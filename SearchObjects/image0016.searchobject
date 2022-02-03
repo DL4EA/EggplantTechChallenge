@@ -1,0 +1,35 @@
+{
+	"lastmodifieddate": 1643827925.177,
+	"ocrcapturestring": "Shipperke ready for action.",
+	"originalcapturelocation": [
+		729,
+		424,
+		222,
+		183
+	],
+	"createddate": 1643827704.8730001,
+	"testlocationdata": [
+		{
+				"capturedocrtext": "Shipperke ready for action.",
+				"deleted": true,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[167,161]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"type": 1,
+				"capturerect": [
+					729,
+					424,
+					222,
+					183
+				],
+				"name": "image0015.png"
+			}
+	],
+	"name": "image0016"
+}

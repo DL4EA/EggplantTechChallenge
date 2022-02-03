@@ -1,0 +1,40 @@
+{
+	"lastmodifieddate": 1643827924.362,
+	"lastfoundlocation": [
+		357,
+		45,
+		70,
+		30
+	],
+	"originalcapturelocation": [
+		398,
+		561,
+		70,
+		30
+	],
+	"createddate": 1643827697.5910001,
+	"lastfounddate": 1643827843.233,
+	"testlocationdata": [
+		{
+				"deleted": true,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[35,15]",
+					"Tolerance": "_1",
+					"Discrepancy": "_0",
+					"SearchType": "Precise to Pixel"
+				},
+				"type": 1,
+				"capturerect": [
+					398,
+					561,
+					70,
+					30
+				],
+				"name": "image0004.png"
+			}
+	],
+	"name": "image0005"
+}

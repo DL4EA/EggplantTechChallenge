@@ -1,0 +1,41 @@
+{
+	"originalcapturelocation": [
+		986,
+		13,
+		16,
+		16
+	],
+	"lastmodifieddate": 1643835819.869,
+	"createddate": 1643835819.869,
+	"name": "CLOSE EDGE",
+	"lastfounddate": 1643883859.5650001,
+	"ocrcapturestring": "X",
+	"lastfoundlocation": [
+		986,
+		13,
+		16,
+		16
+	],
+	"testlocationdata": [
+		{
+				"capturedocrtext": "X",
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[10,9]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"type": 1,
+				"capturerect": [
+					986,
+					13,
+					16,
+					16
+				],
+				"name": "CLOSE EDGE.png"
+			}
+	]
+}

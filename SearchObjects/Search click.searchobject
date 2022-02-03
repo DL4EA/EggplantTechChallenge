@@ -1,0 +1,41 @@
+{
+	"originalcapturelocation": [
+		688,
+		561,
+		28,
+		28
+	],
+	"lastmodifieddate": 1643834711.4320002,
+	"createddate": 1643834711.4320002,
+	"name": "Search click",
+	"lastfounddate": 1643835739.8759999,
+	"ocrcapturestring": "Q.",
+	"lastfoundlocation": [
+		688,
+		561,
+		28,
+		28
+	],
+	"testlocationdata": [
+		{
+				"capturedocrtext": "Q.",
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[12,14]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"type": 1,
+				"capturerect": [
+					688,
+					561,
+					28,
+					28
+				],
+				"name": "Search click.png"
+			}
+	]
+}

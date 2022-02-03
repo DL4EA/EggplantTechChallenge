@@ -1,0 +1,39 @@
+{
+	"lastmodifieddate": 1643834710.678,
+	"lastfoundlocation": [
+		277,
+		552,
+		190,
+		45
+	],
+	"originalcapturelocation": [
+		277,
+		552,
+		190,
+		45
+	],
+	"createddate": 1643834710.678,
+	"lastfounddate": 1643835718.2589998,
+	"testlocationdata": [
+		{
+				"name": "Wiki Search field.png",
+				"type": 1,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[41,23]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"capturerect": [
+					277,
+					552,
+					190,
+					45
+				]
+			}
+	],
+	"name": "Wiki Search field"
+}

@@ -1,0 +1,41 @@
+{
+	"originalcapturelocation": [
+		708,
+		397,
+		265,
+		210
+	],
+	"lastmodifieddate": 1643835819.4990001,
+	"createddate": 1643835819.4990001,
+	"name": "SHI DOG",
+	"lastfounddate": 1643836550.073,
+	"ocrcapturestring": "Schipperke",
+	"lastfoundlocation": [
+		708,
+		397,
+		265,
+		210
+	],
+	"testlocationdata": [
+		{
+				"capturedocrtext": "Schipperke",
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[194,131]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"type": 1,
+				"capturerect": [
+					708,
+					397,
+					265,
+					210
+				],
+				"name": "SHI DOG.png"
+			}
+	]
+}

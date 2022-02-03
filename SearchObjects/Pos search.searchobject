@@ -1,0 +1,49 @@
+{
+	"originalcapturelocation": [
+		986,
+		13,
+		38,
+		20
+	],
+	"lastmodifieddate": 1643834101.2750001,
+	"createddate": 1643830740.0050001,
+	"name": "Pos search",
+	"lastfounddate": 1643830809.3169999,
+	"ocrcapturestring": "X",
+	"lastfoundlocation": [
+		986,
+		13,
+		38,
+		20
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"deleted": true,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[19,10]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Pos search.png",
+				"connectionname": "EggplantAntonio",
+				"type": 1,
+				"connectionserverid": "20.113.93.89",
+				"capturerect": [
+					986,
+					13,
+					38,
+					20
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "X"
+			}
+	]
+}

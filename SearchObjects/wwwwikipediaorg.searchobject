@@ -1,0 +1,41 @@
+{
+	"originalcapturelocation": [
+		275,
+		90,
+		129,
+		17
+	],
+	"lastmodifieddate": 1643835817.6469998,
+	"createddate": 1643835817.6469998,
+	"name": "wwwwikipediaorg",
+	"lastfounddate": 1643883845.6690001,
+	"ocrcapturestring": "www.wikipedia.org",
+	"lastfoundlocation": [
+		275,
+		90,
+		129,
+		17
+	],
+	"testlocationdata": [
+		{
+				"capturedocrtext": "www.wikipedia.org",
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[55,9]",
+					"Tolerance": "_71",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"type": 1,
+				"capturerect": [
+					275,
+					90,
+					129,
+					17
+				],
+				"name": "wwwwikipediaorg.png"
+			}
+	]
+}

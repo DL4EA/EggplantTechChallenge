@@ -1,0 +1,39 @@
+{
+	"lastmodifieddate": 1643835816.9720001,
+	"lastfoundlocation": [
+		150,
+		43,
+		227,
+		33
+	],
+	"originalcapturelocation": [
+		150,
+		43,
+		227,
+		33
+	],
+	"createddate": 1643835816.9720001,
+	"lastfounddate": 1643883843.5,
+	"testlocationdata": [
+		{
+				"name": "Browser URL.png",
+				"type": 1,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[78,20]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"capturerect": [
+					150,
+					43,
+					227,
+					33
+				]
+			}
+	],
+	"name": "Browser URL"
+}

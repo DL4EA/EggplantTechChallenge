@@ -1,0 +1,49 @@
+{
+	"originalcapturelocation": [
+		8,
+		155,
+		60,
+		38
+	],
+	"lastmodifieddate": 1643826738.3990002,
+	"createddate": 1643826385.839,
+	"name": "image0001",
+	"lastfounddate": 1643826580.9400001,
+	"ocrcapturestring": "Il^rf",
+	"lastfoundlocation": [
+		8,
+		155,
+		60,
+		38
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"deleted": true,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[30,19]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Image0001.png",
+				"connectionname": "EggplantAntonio",
+				"type": 1,
+				"connectionserverid": "20.113.93.89",
+				"capturerect": [
+					8,
+					155,
+					60,
+					38
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Il^rf"
+			}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"originalcapturelocation": [
+		291,
+		565,
+		111,
+		22
+	],
+	"lastmodifieddate": 1643827924.612,
+	"createddate": 1643827698.8930001,
+	"name": "image0008",
+	"lastfounddate": 1643827851.53,
+	"ocrcapturestring": "Microsoft Edg",
+	"lastfoundlocation": [
+		315,
+		19,
+		77,
+		15
+	],
+	"testlocationdata": [
+		{
+				"capturedocrtext": "Microsoft Edg",
+				"deleted": true,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[108,11]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"type": 1,
+				"capturerect": [
+					291,
+					565,
+					111,
+					22
+				],
+				"name": "image0007.png"
+			}
+	]
+}

@@ -1,0 +1,49 @@
+{
+	"originalcapturelocation": [
+		362,
+		607,
+		86,
+		20
+	],
+	"lastmodifieddate": 1643834101.4159999,
+	"createddate": 1643832608.5770001,
+	"name": "Schipperke_1",
+	"lastfounddate": 1643832608.8710001,
+	"ocrcapturestring": "Schipperke",
+	"lastfoundlocation": [
+		362,
+		607,
+		86,
+		20
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"deleted": true,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[48,7]",
+					"Tolerance": "_50",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Schipperke_1.png",
+				"connectionname": "EggplantAntonio",
+				"type": 1,
+				"connectionserverid": "20.113.93.89",
+				"capturerect": [
+					362,
+					607,
+					86,
+					20
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Schipperke"
+			}
+	]
+}

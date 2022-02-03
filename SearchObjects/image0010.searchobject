@@ -1,0 +1,35 @@
+{
+	"lastmodifieddate": 1643827924.7690001,
+	"ocrcapturestring": "E",
+	"originalcapturelocation": [
+		235,
+		559,
+		70,
+		30
+	],
+	"createddate": 1643827699.914,
+	"testlocationdata": [
+		{
+				"capturedocrtext": "E",
+				"deleted": true,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[35,15]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"type": 1,
+				"capturerect": [
+					235,
+					559,
+					70,
+					30
+				],
+				"name": "image0009.png"
+			}
+	],
+	"name": "image0010"
+}

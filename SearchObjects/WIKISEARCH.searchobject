@@ -1,0 +1,39 @@
+{
+	"lastmodifieddate": 1643835818.007,
+	"lastfoundlocation": [
+		277,
+		552,
+		220,
+		45
+	],
+	"originalcapturelocation": [
+		277,
+		552,
+		220,
+		45
+	],
+	"createddate": 1643835818.007,
+	"lastfounddate": 1643883847.6069999,
+	"testlocationdata": [
+		{
+				"name": "WIKISEARCH.png",
+				"type": 1,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[71,22]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"capturerect": [
+					277,
+					552,
+					220,
+					45
+				]
+			}
+	],
+	"name": "WIKISEARCH"
+}

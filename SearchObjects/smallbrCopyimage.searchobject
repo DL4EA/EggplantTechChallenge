@@ -1,0 +1,35 @@
+{
+	"lastmodifieddate": 1643834101.4530001,
+	"ocrcapturestring": "small br © Copy image",
+	"originalcapturelocation": [
+		515,
+		392,
+		158,
+		21
+	],
+	"createddate": 1643827706.0549998,
+	"testlocationdata": [
+		{
+				"capturedocrtext": "small br © Copy image",
+				"deleted": true,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[127,15]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"type": 1,
+				"capturerect": [
+					515,
+					392,
+					158,
+					21
+				],
+				"name": "smallbrCopyimage.png"
+			}
+	],
+	"name": "smallbrCopyimage"
+}

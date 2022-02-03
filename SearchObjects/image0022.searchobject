@@ -1,0 +1,42 @@
+{
+	"originalcapturelocation": [
+		727,
+		422,
+		226,
+		185
+	],
+	"lastmodifieddate": 1643834078.7030001,
+	"createddate": 1643828150.5339999,
+	"name": "image0022",
+	"lastfounddate": 1643829782.977,
+	"ocrcapturestring": "r w i % Shipperke ready for action.",
+	"lastfoundlocation": [
+		727,
+		422,
+		226,
+		185
+	],
+	"testlocationdata": [
+		{
+				"capturedocrtext": "r w i % Shipperke ready for action.",
+				"deleted": true,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[90,56]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"type": 1,
+				"capturerect": [
+					727,
+					422,
+					226,
+					185
+				],
+				"name": "image0004.png"
+			}
+	]
+}

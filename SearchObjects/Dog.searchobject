@@ -1,0 +1,41 @@
+{
+	"originalcapturelocation": [
+		709,
+		400,
+		156,
+		23
+	],
+	"lastmodifieddate": 1643834711.8400002,
+	"createddate": 1643834711.8400002,
+	"name": "Dog",
+	"lastfounddate": 1643835769.207,
+	"ocrcapturestring": "Schipper",
+	"lastfoundlocation": [
+		709,
+		400,
+		156,
+		23
+	],
+	"testlocationdata": [
+		{
+				"capturedocrtext": "Schipper",
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[7,21]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"type": 1,
+				"capturerect": [
+					709,
+					400,
+					156,
+					23
+				],
+				"name": "Dog.png"
+			}
+	]
+}

@@ -1,0 +1,22 @@
+﻿(*  *)(* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+  Script generated:  2022-02-02 22:03:35
+  From session:  Test session
+  Captured on:  2022-02-02 21:59:34
+  From server:  EggplantAntonio
+  Author: Antonio
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *)
+
+Click "EDGE"
+DoubleClick "EDGECLICK"
+Click (Image:"Browser URL", WaitFor:7)
+TypeText "www.wikipedia.org"
+Click "wwwwikipediaorg"
+Click "WIKISEARCH"
+TypeText "schipperke"
+Click "MAGNIFIER"
+IF ImageFound(imageName:"Dod comp", waitFor:10) then
+	LogSuccess "The Schipperke was found"
+else
+	LogError "The Schipperke was NOT found"
+End If
+Click "CLOSE EDGE"

@@ -1,0 +1,41 @@
+{
+	"originalcapturelocation": [
+		986,
+		13,
+		16,
+		16
+	],
+	"lastmodifieddate": 1643834712.9229999,
+	"createddate": 1643834712.9229999,
+	"name": "Close Browser",
+	"lastfounddate": 1643835801.9809999,
+	"ocrcapturestring": "X",
+	"lastfoundlocation": [
+		986,
+		13,
+		16,
+		16
+	],
+	"testlocationdata": [
+		{
+				"capturedocrtext": "X",
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[8,11]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"type": 1,
+				"capturerect": [
+					986,
+					13,
+					16,
+					16
+				],
+				"name": "Close Browser.png"
+			}
+	]
+}

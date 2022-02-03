@@ -1,0 +1,6 @@
+﻿DoubleClick {Image:"MS Edge", WaitFor:0}
+TypeText "https://www.wikipedia.org",Return ,WaitFor:3
+TypeText schipperke
+
+
+

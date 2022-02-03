@@ -1,0 +1,41 @@
+{
+	"originalcapturelocation": [
+		0,
+		100,
+		83,
+		93
+	],
+	"lastmodifieddate": 1643838931.098,
+	"createddate": 1643835816.0349998,
+	"name": "EDGE",
+	"lastfounddate": 1643883839.507,
+	"ocrcapturestring": "s? W",
+	"lastfoundlocation": [
+		0,
+		100,
+		83,
+		93
+	],
+	"testlocationdata": [
+		{
+				"capturedocrtext": "s? W",
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[33,35]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"type": 1,
+				"capturerect": [
+					0,
+					100,
+					83,
+					93
+				],
+				"name": "EDGE.png"
+			}
+	]
+}
